@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emoji Hub</string>
+    <string name="disk_full">Not enough space on dik to save the data!</string>
+    <string name="request_took_too_much_time">Request took too much time.</string>
+    <string name="no_internet">Sorry! It seems that you don\'t have internet.</string>
+    <string name="server_error_text">Sorry! We couldn\'t respond to your request.</string>
+    <string name="unknown_error">Oops! Something happened.</string>
+    <string name="welcome_text">Welcome to the\nEmojiHub</string>
+    <string name="show_emojis">Show Emojis</string>
+    <string name="retry">Retry</string>
+    <string name="no_emojis">Can\'t find emojis to show you! \nJust a disappointed face.</string>
+    <string name="extended_floating_action_button">Extended floating action button.</string>
+</resources>
