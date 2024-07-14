@@ -32,3 +32,5 @@ Cons: Interdependence of layer, only good for a single feature.
 * MVI + Viewmodel + Repository
 * Clean Architecture and code
 * Offline First App
+
+[Emojihub Challenge.webm](https://github.com/user-attachments/assets/1a50515d-440f-436c-bbfa-775df645ae16)
